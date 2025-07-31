@@ -63,7 +63,7 @@
                 console.warn('Элемент с классом .mobile-menu не найден');
             }
         } else {
-            console.error('Плагин slicknav не загружен');
+            console.log('Плагин slicknav не загружен');
         }
     });
 
