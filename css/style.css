@@ -396,6 +396,14 @@ margin-right: 10px !important;
 }
 .menu-item .logo {
     padding: 25px 0;
+    font-size: 20px;
+}
+.page__content h1 {
+    font-size: 40px;
+}
+
+.menu-item .logo h3 {
+    font-size: 20px;
 }
 .menu-item .logo a {
     display: inline-block;
